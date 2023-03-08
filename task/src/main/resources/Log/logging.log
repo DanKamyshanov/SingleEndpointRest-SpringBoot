@@ -1,0 +1,21 @@
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 4) age: 21
+In controller. Person (id: 4) retrieved
+Person with id 5 does not exist
+Person with id 5 does not exist
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 3) age: 22
+In controller. Person (id: 3) retrieved
+Person (id: 4) age: 21
+In controller. Person (id: 4) retrieved
+Person with id 6 does not exist
+Person (id: 6) age: 19
+In controller. Person (id: 6) retrieved
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.

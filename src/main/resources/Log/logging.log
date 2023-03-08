@@ -1,0 +1,160 @@
+In controller. Person (id: 2) retrieved
+In controller. Person (id: 1) retrieved
+In controller. Person (id: 3) retrieved
+In controller. Person (id: 3) retrieved
+In controller. Person (id: 5) retrieved
+In controller. Person (id: 5) retrieved
+In controller. Person (id: 3) retrieved
+In controller. Person (id: 3) retrieved
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 3) age: 21
+In controller. Person (id: 3) retrieved
+Person (id: 3) age: 21
+In controller. Person (id: 3) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person with id 4 does not exist
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person with id 5 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 5 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 5 does not exist
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 0) age: 21
+Person (id: 0) age: 21
+Person (id: 0) age: 21
+Person (id: 0) age: 50
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person (id: 0) age: 3
+Date of birth cannot exceed current date.
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person (id: 0) age: 50
+Person (id: 0) age: 3
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person with id 5 does not exist
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person with id 4 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 5 does not exist
+Person with id 4 does not exist
+Person with id 4 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 4 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 4 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 4 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 4 does not exist
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person: com.testtask.task.entity.Person@712adc04
+Person with id 5 does not exist
+Person: com.testtask.task.entity.Person@43ac1fa0
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person: com.testtask.task.entity.Person@4c97e3d5
+Person (id: 12) age: 19
+Person (id: 12) age: 19
+In controller. Person (id: 12) retrieved
+Person: com.testtask.task.entity.Person@2e940dd0
+Person (id: 0) age: 19
+Person (id: 0) age: 19
+In controller. Person (id: 0) retrieved
+Person: com.testtask.task.entity.Person@2e940dd0
+Person (id: 0) age: 19
+Person with id 10 does not exist
+Person: com.testtask.task.entity.Person@7432cb37
+Person (id: 6) age: 19
+Person (id: 6) age: 19
+In controller. Person (id: 6) retrieved
+Person (id: 6) age: 19
+Person (id: 6) age: 19
+In controller. Person (id: 6) retrieved
+Date of birth cannot exceed current date.
+Person (id: 0) age: 5
+Person with id 7 does not exist
+Person (id: 6) age: 19
+Person (id: 6) age: 19
+In controller. Person (id: 6) retrieved
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person (id: 3) age: 21
+In controller. Person (id: 3) retrieved
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person with id 5 does not exist
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person (id: 3) age: 21
+In controller. Person (id: 3) retrieved
+Person with id 5 does not exist
+Person (id: 3) age: 19
+Person (id: 3) age: 19
+In controller. Person (id: 3) retrieved
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person with id 6 does not exist
+Person (id: 5) age: 19
+Person (id: 5) age: 19
+In controller. Person (id: 5) retrieved
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person with id 7 does not exist
+Person (id: 0) age: 50
+Person (id: 4) age: 21
+In controller. Person (id: 4) retrieved
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
+Person with id 5 does not exist
+Person with id 7 does not exist
+Person with id 5 does not exist
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 4) age: 21
+In controller. Person (id: 4) retrieved
+Person with id 5 does not exist
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person with id 6 does not exist
+Person (id: 5) age: 19
+In controller. Person (id: 5) retrieved
+Person (id: 0) age: 50
+Date of birth cannot exceed current date.
+Person (id: 2) age: 28
+In controller. Person (id: 2) retrieved
+Person (id: 1) age: 21
+In controller. Person (id: 1) retrieved
